@@ -1,5 +1,8 @@
 # -KalmanFilter-
 OpenCV2——卡尔曼滤波(KalmanFilter)详解
+
+http://blog.csdn.net/gdfsg/article/details/50904811
+
  本文将简要回顾一下卡尔曼滤波理论，然后详细介绍如何在OpenCV中使用卡尔曼滤波进行跟踪，最后给两个程序实例。
 1. 卡尔曼滤波理论回顾
       对于一个动态系统，我们首先定义一组状态空间方程
